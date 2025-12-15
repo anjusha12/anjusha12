@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**anjusha12/anjusha12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there 👋  
+I’m Anjusha P 💻  
 
-Here are some ideas to get you started:
+I’m a computer science graduate and a Frappe / ERPNext developer with experience in Python, JavaScript, and ERP customizations. I enjoy backend development and building scalable ERP solutions.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some facts about me:
+
+👀 I’m interested in developing and learning new ERP features  
+🌱 Currently exploring Frappe Framework and ERPNext customizations  
+💞️ Open to collaborating on Frappe / ERPNext implementations  
+
+---
+
+## 📫 Reach Me
+- **LinkedIn:** https://www.linkedin.com/in/anjushasuresh01/
+- **Email:** anjushasuresh85@gmail.com 
