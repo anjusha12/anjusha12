@@ -3,7 +3,7 @@
 Hey there 👋  
 I’m Anjusha P 💻  
 
-I’m a computer science graduate and a Frappe / ERPNext developer with experience in Python, JavaScript, and ERP customizations. I enjoy backend development and building scalable ERP solutions.  
+A computer science graduate with a strong interest in software development and problem-solving. I enjoy building efficient, scalable applications and continuously learning new technologies to improve my skills. 
 
 Some facts about me:
 
